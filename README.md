@@ -53,7 +53,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 
 ### 🧑‍💻 About Me
 
-- 👋 Hi, I'm **Aman Joshi** ([@Code-Breaker-Ctrl](https://github.com/Code-Breaker-Ctrl))
+- 👋 Hi, I'm **Aman Joshi** ([@Soul-Ninja](https://github.com/Soul-Ninja))
 - 🎧 Working with **Python, Flask, Java, JavaScript, HTML/CSS**
 - 🌱 Currently learning from multiple platforms & building cool tools
 - 💞️ Looking to collaborate on **GitHub, LeetCode, and open-source projects**
