@@ -93,15 +93,15 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Code-Breaker-Ctrl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Code-Breaker-Ctrl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Soul-Ninja&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Code-Breaker-Ctrl&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Soul-Ninja&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=Code-Breaker-Ctrl&theme=react-dark&hide_border=true" alt="Contribution graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Soul-Ninja&theme=react-dark&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
