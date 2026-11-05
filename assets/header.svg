@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0e131d"/>
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#E2E8F0"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C5CE7"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#087F5B"/>
+    </linearGradient>
+
+    <!-- Dot Pattern -->
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363D" fill-opacity="0.45"/>
+    </pattern>
+
+    <!-- Glow Filters -->
+    <filter id="purpleGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="60" result="blur"/>
+    </filter>
+    <filter id="tealGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Base Card -->
+  <rect width="1000" height="240" rx="16" fill="url(#bgGradient)"/>
+
+  <!-- Ambient Glows -->
+  <circle cx="120" cy="50" r="90" fill="#6C5CE7" fill-opacity="0.18" filter="url(#purpleGlow)"/>
+  <circle cx="880" cy="190" r="80" fill="#087F5B" fill-opacity="0.22" filter="url(#tealGlow)"/>
+
+  <!-- Dot Grid Overlay -->
+  <rect width="1000" height="240" rx="16" fill="url(#dotGrid)"/>
+
+  <!-- Border -->
+  <rect x="0.5" y="0.5" width="999" height="239" rx="15.5" stroke="#30363D" stroke-opacity="0.6"/>
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="1000" height="3" fill="url(#accentGradient)"/>
+
+  <!-- Content Group -->
+  <g transform="translate(56, 38)">
+    <!-- Pill Badge -->
+    <g>
+      <rect width="365" height="26" rx="13" fill="#6C5CE7" fill-opacity="0.14" stroke="#6C5CE7" stroke-opacity="0.35"/>
+      <circle cx="14" cy="13" r="4" fill="#087F5B"/>
+      <text x="26" y="17" fill="#C4B5FD" class="font-mono" font-size="11" font-weight="600" letter-spacing="1">SECURITY · APPLIED AI · PRIVACY-FIRST</text>
+    </g>
+
+    <!-- Main Title & Handle -->
+    <g transform="translate(0, 62)">
+      <text x="0" y="0" fill="url(#titleGradient)" class="font-sans" font-size="44" font-weight="800" letter-spacing="-0.5">Aman Joshi</text>
+      <text x="285" y="-3" fill="#6C5CE7" class="font-mono" font-size="22" font-weight="600">/ Soul-Ninja</text>
+    </g>
+
+    <!-- Tagline -->
+    <text x="0" y="94" fill="#94A3B8" class="font-sans" font-size="15" font-weight="400">
+      Turning real-world chaos into small, sharp, dependable &amp; privacy-respecting software.
+    </text>
+
+    <!-- Mini Project Badges at Bottom -->
+    <g transform="translate(0, 126)">
+      <!-- APIGuard -->
+      <g>
+        <rect width="108" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+        <text x="10" y="16" fill="#58A6FF" class="font-mono" font-size="11" font-weight="600">🛡️ APIGuard</text>
+      </g>
+      <!-- Debunkit -->
+      <g transform="translate(118, 0)">
+        <rect width="105" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+        <text x="10" y="16" fill="#BC8CFF" class="font-mono" font-size="11" font-weight="600">🧠 Debunkit</text>
+      </g>
+      <!-- Ledgio -->
+      <g transform="translate(233, 0)">
+        <rect width="90" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+        <text x="10" y="16" fill="#3FB950" class="font-mono" font-size="11" font-weight="600">💳 Ledgio</text>
+      </g>
+      <!-- mash -->
+      <g transform="translate(333, 0)">
+        <rect width="82" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+        <text x="10" y="16" fill="#FFA657" class="font-mono" font-size="11" font-weight="600">⚙️ mash</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Decorative Corner Symbol -->
+  <g transform="translate(910, 42)" opacity="0.3">
+    <path d="M0 0 L25 0 L25 25" fill="none" stroke="#6C5CE7" stroke-width="2"/>
+    <circle cx="25" cy="0" r="3" fill="#6C5CE7"/>
+  </g>
+  <g transform="translate(910, 175)" opacity="0.3">
+    <path d="M25 25 L0 25 L0 0" fill="none" stroke="#087F5B" stroke-width="2"/>
+    <circle cx="0" cy="25" r="3" fill="#087F5B"/>
+  </g>
+</svg>

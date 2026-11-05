@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131d"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="footerAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C5CE7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6C5CE7"/>
+      <stop offset="100%" stop-color="#087F5B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Container -->
+  <rect width="1000" height="100" rx="14" fill="url(#footerBg)"/>
+  <rect x="0.5" y="0.5" width="999" height="99" rx="13.5" stroke="#30363D" stroke-opacity="0.5"/>
+
+  <!-- Top subtle line -->
+  <line x1="150" y1="1" x2="850" y2="1" stroke="url(#footerAccent)" stroke-width="1.5"/>
+
+  <!-- Centered Content -->
+  <g text-anchor="middle" transform="translate(500, 42)">
+    <text x="0" y="0" fill="#F8FAFC" class="font-sans" font-size="18" font-weight="700">Thanks for stopping by! 🚀</text>
+    <text x="0" y="26" fill="#94A3B8" class="font-mono" font-size="12" font-weight="500">Crafted with curiosity &amp; code · Let's build something dependable together</text>
+  </g>
+</svg>
