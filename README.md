@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Soul Ninja — Aman Joshi. Applied AI, security engineering, privacy-first software." width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
+  <img src="./assets/hero.gif" alt="Soul Ninja â€” Aman Joshi. Applied AI, security engineering, privacy-first software." width="100%" />
+</picture>
 
 <br /><br />
 
-<img src="./assets/h-profile.svg" alt="Profile" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-profile.svg" />
+  <img src="./assets/h-profile.gif" alt="Profile" width="100%" />
+</picture>
 
 <h3>Aman Joshi</h3>
 
@@ -19,25 +25,28 @@ tools that work offline, say what they do, and carry no dark patterns.
 </p>
 
 <p>
-<b>Now shipping</b> APIGuard &nbsp;·&nbsp; <b>Now learning</b> LLM pipelines, NLP, graph algorithms, OS internals &nbsp;·&nbsp; <b>Open to</b> collaborations
+<b>Now shipping</b> APIGuard &nbsp;Â·&nbsp; <b>Now learning</b> LLM pipelines, NLP, graph algorithms, OS internals &nbsp;Â·&nbsp; <b>Open to</b> collaborations
 </p>
 
 <br />
 
-<img src="./assets/h-releases.svg" alt="Releases" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-releases.svg" />
+  <img src="./assets/h-releases.gif" alt="Releases" width="100%" />
+</picture>
 
 <p><b>Selected work</b><br />Four projects across API security, applied AI, personal finance and systems programming.</p>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/APIGuard"><img src="./assets/p-apiguard.svg" alt="APIGuard — API security" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/APIGuard"><img src="./assets/p-apiguard.svg" alt="APIGuard â€” API security" width="100%" /></a>
 <p>Graph-guided API security scanner that tests access across user identities.<br /><b>CLI + GitHub Action</b>, multi-category checks and SARIF reports.</p>
 <a href="https://soul-ninja.github.io/APIGuard/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch APIGuard" /></a>
 <a href="https://github.com/Soul-Ninja/APIGuard"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="APIGuard source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/Debunkit"><img src="./assets/p-debunkit.svg" alt="Debunkit — fact checking" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/Debunkit"><img src="./assets/p-debunkit.svg" alt="Debunkit â€” fact checking" width="100%" /></a>
 <p>AI-assisted claim checking with live web evidence and explained verdicts.<br /><b>Cohere + local ML/NLP fallback</b>, with searchable analysis history.</p>
 <a href="https://debunk-it.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Debunkit" /></a>
 <a href="https://github.com/Soul-Ninja/Debunkit"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Debunkit source" /></a>
@@ -45,13 +54,13 @@ tools that work offline, say what they do, and carry no dark patterns.
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/Ledgio"><img src="./assets/p-ledgio.svg" alt="Ledgio — private finance" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/Ledgio"><img src="./assets/p-ledgio.svg" alt="Ledgio â€” private finance" width="100%" /></a>
 <p>Private, offline-first personal finance ledger and installable PWA.<br />Budgeting, loan tracker, biometric vault, cloud sync.</p>
 <a href="https://ledgio.pages.dev/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Ledgio" /></a>
 <a href="https://github.com/Soul-Ninja/Ledgio"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Ledgio source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash.svg" alt="MASH — educational Unix shell" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash.svg" alt="MASH â€” educational Unix shell" width="100%" /></a>
 <p>An educational Unix shell and process laboratory in Python.<br />Pipelines, job control and a Linux <code>/proc</code> process dashboard.</p>
 <a href="https://github.com/Soul-Ninja/mash-os-project"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="mash source" /></a>
 </td>
@@ -88,7 +97,10 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <br />
 
-<img src="./assets/h-toolbox.svg" alt="Toolbox" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-toolbox.svg" />
+  <img src="./assets/h-toolbox.gif" alt="Toolbox" width="100%" />
+</picture>
 
 <p>
 <img src="https://img.shields.io/badge/Python-e8e3da?style=for-the-badge&logo=python&logoColor=d4474e" alt="Python" />
@@ -110,7 +122,10 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <br />
 
-<img src="./assets/h-stats.svg" alt="Stats" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-stats.svg" />
+  <img src="./assets/h-stats.gif" alt="Stats" width="100%" />
+</picture>
 
 <p>
 <img src="https://github-stats-extended.vercel.app/api?username=Soul-Ninja&show_icons=true&bg_color=0c0e13&title_color=d4474e&text_color=e8e3da&icon_color=d4474e&border_color=e8e3da" height="158" alt="GitHub stats for Soul-Ninja" />
@@ -119,7 +134,10 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <br />
 
-<img src="./assets/h-contact.svg" alt="Contact" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-contact.svg" />
+  <img src="./assets/h-contact.gif" alt="Contact" width="100%" />
+</picture>
 
 <p>
 <a href="https://github.com/Soul-Ninja"><img src="https://img.shields.io/badge/GitHub-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="GitHub" /></a>
@@ -131,6 +149,9 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <br />
 
-<img src="./assets/footer.svg" alt="To be continued" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/footer.svg" />
+  <img src="./assets/footer.gif" alt="To be continued" width="100%" />
+</picture>
 
 </div>

@@ -2,7 +2,7 @@
 <style>
   /* One-way streaks suggest speed while the lettering stays fixed. */
   .race-trail { animation: race-pass 1.4s linear -0.92s infinite; }
-  .race-slow { animation-duration: 1.8s; animation-delay: -0.9s; }
+  .race-slow { animation-duration: 2.8s; animation-delay: -0.9s; }
   @keyframes race-pass {
     0% { transform: translateX(-220px); opacity: 0; }
     8% { opacity: 0.85; }
