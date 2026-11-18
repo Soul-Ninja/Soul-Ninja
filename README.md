@@ -26,18 +26,20 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <img src="./assets/h-releases.svg" alt="Releases" width="100%" />
 
+<p><b>Selected work</b><br />Four projects across API security, applied AI, personal finance and systems programming.</p>
+
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Soul-Ninja/APIGuard"><img src="./assets/p-apiguard.svg" alt="APIGuard — API security" width="100%" /></a>
-<p>Graph-guided API authorization and <b>BOLA</b> detection engine.<br />FastAPI, React 19 and TypeScript, aligned to OWASP API Security #1.</p>
+<p>Graph-guided API security scanner that tests access across user identities.<br /><b>CLI + GitHub Action</b>, multi-category checks and SARIF reports.</p>
 <a href="https://soul-ninja.github.io/APIGuard/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch APIGuard" /></a>
 <a href="https://github.com/Soul-Ninja/APIGuard"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="APIGuard source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Soul-Ninja/Debunkit"><img src="./assets/p-debunkit.svg" alt="Debunkit — fact checking" width="100%" /></a>
-<p>AI-assisted misinformation detection for headlines, URLs and articles.<br />Live web evidence and transparent verdicts.</p>
-<a href="https://debunkit-production.up.railway.app"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Debunkit" /></a>
+<p>AI-assisted claim checking with live web evidence and explained verdicts.<br /><b>Cohere + local ML/NLP fallback</b>, with searchable analysis history.</p>
+<a href="https://debunk-it.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Debunkit" /></a>
 <a href="https://github.com/Soul-Ninja/Debunkit"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Debunkit source" /></a>
 </td>
 </tr>
@@ -49,12 +51,40 @@ tools that work offline, say what they do, and carry no dark patterns.
 <a href="https://github.com/Soul-Ninja/Ledgio"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Ledgio source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash.svg" alt="mash — POSIX shell" width="100%" /></a>
-<p>A POSIX-style shell built on raw kernel syscalls.<br /><code>fork</code>, <code>execvp</code> and PCB management, in Python.</p>
+<a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash.svg" alt="MASH — educational Unix shell" width="100%" /></a>
+<p>An educational Unix shell and process laboratory in Python.<br />Pipelines, job control and a Linux <code>/proc</code> process dashboard.</p>
 <a href="https://github.com/Soul-Ninja/mash-os-project"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="mash source" /></a>
 </td>
 </tr>
 </table>
+
+<h3>More projects &amp; experiments</h3>
+
+<table>
+<tr><th align="left">Project</th><th align="left">What it is</th></tr>
+<tr>
+<td><a href="https://github.com/Soul-Ninja/fdr-shield"><b>FDR Shield</b></a></td>
+<td>SIH 2026 team project for FDR document verification, maturity monitoring and renewal alerts.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Soul-Ninja/nextwatch"><b>Nextwatch</b></a></td>
+<td>Anime discovery and release tracking with TMDB integration. Functional prototype; no public deployment yet.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Soul-Ninja/Soul-Ninja.github.io"><b>Personal portfolio</b></a></td>
+<td>My portfolio and classified threat console. <a href="https://soul-ninja.github.io/">Visit the site</a>.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Soul-Ninja/apiguard-action-test"><b>APIGuard Action test</b></a></td>
+<td>Deliberately vulnerable notes API for testing APIGuard's GitHub Action end to end. Test fixture only.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Soul-Ninja/nexus-zkvm"><b>nexus-zkvm</b></a></td>
+<td>Source repository with apps, contracts and scripts. Project README pending.</td>
+</tr>
+</table>
+
+<p><a href="https://github.com/Soul-Ninja?tab=repositories">Browse all repositories, including forks and contribution work &rarr;</a></p>
 
 <br />
 
