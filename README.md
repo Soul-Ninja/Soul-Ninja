@@ -2,14 +2,14 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
-  <img src="./assets/hero.gif" alt="Soul Ninja â€” Aman Joshi. Applied AI, security engineering, privacy-first software." width="100%" />
+  <img src="./assets/hero.gif?v=735e2ac" alt="Soul Ninja â€” Aman Joshi. Applied AI, security engineering, privacy-first software." width="100%" />
 </picture>
 
 <br /><br />
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-profile.svg" />
-  <img src="./assets/h-profile.gif" alt="Profile" width="100%" />
+  <img src="./assets/h-profile.gif?v=735e2ac" alt="Profile" width="100%" />
 </picture>
 
 <h3>Aman Joshi</h3>
@@ -32,7 +32,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-releases.svg" />
-  <img src="./assets/h-releases.gif" alt="Releases" width="100%" />
+  <img src="./assets/h-releases.gif?v=735e2ac" alt="Releases" width="100%" />
 </picture>
 
 <p><b>Selected work</b><br />Four projects across API security, applied AI, personal finance and systems programming.</p>
@@ -95,7 +95,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-toolbox.svg" />
-  <img src="./assets/h-toolbox.gif" alt="Toolbox" width="100%" />
+  <img src="./assets/h-toolbox.gif?v=735e2ac" alt="Toolbox" width="100%" />
 </picture>
 
 <p>
@@ -120,7 +120,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-stats.svg" />
-  <img src="./assets/h-stats.gif" alt="Stats" width="100%" />
+  <img src="./assets/h-stats.gif?v=735e2ac" alt="Stats" width="100%" />
 </picture>
 
 <p>
@@ -132,7 +132,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-contact.svg" />
-  <img src="./assets/h-contact.gif" alt="Contact" width="100%" />
+  <img src="./assets/h-contact.gif?v=735e2ac" alt="Contact" width="100%" />
 </picture>
 
 <p>
