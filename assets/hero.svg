@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Soul Ninja - Aman Joshi. Applied AI, security engineering, privacy-first software."><title>Soul Ninja - Aman Joshi. Applied AI, security engineering, privacy-first software.</title>
 <style>
   svg { --ease-out: cubic-bezier(0.23, 1, 0.32, 1); }
-  /* A single intro; the finished artwork remains still and readable. */
+  /* The intro leads into ambient motion; lettering stays fixed after revealing. */
   #shuriken-flight { animation: throw-in 400ms linear 120ms backwards; }
   #shuriken-settle {
     transform-origin: 566px 123px;
@@ -9,7 +9,7 @@
   }
   #shuriken-spin {
     transform-origin: 566px 123px;
-    animation: blade-spin 400ms linear 120ms backwards;
+    animation: blade-spin 400ms linear 120ms backwards, idle-spin 2800ms linear 1200ms infinite;
   }
   #impact-ink { animation: ink-reveal 180ms var(--ease-out) 500ms backwards; }
   #main-title { animation: title-reveal 440ms var(--ease-out) 560ms backwards; }
@@ -42,6 +42,10 @@
   @keyframes detail-reveal {
     from { opacity: 0; transform: translateX(8px); }
     to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes idle-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
   }
   @media (prefers-reduced-motion: reduce) {
     #shuriken-flight, #shuriken-spin, #shuriken-settle { animation: none; }
