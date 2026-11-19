@@ -2,14 +2,15 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
-  <img src="./assets/hero-v2.gif" alt="Soul Ninja â€” Aman Joshi. Applied AI, security engineering, privacy-first software." width="100%" />
+  <source type="image/webp" srcset="./assets/hero-smooth.webp" />
+  <img src="./assets/hero-smooth.gif" alt="Soul Ninja — Aman Joshi. Applied AI, security engineering, privacy-first software." width="100%" />
 </picture>
 
 <br /><br />
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-profile.svg" />
-  <img src="./assets/h-profile-v2.gif" alt="Profile" width="100%" />
+  <img src="./assets/h-profile-smooth.gif" alt="Profile" width="100%" />
 </picture>
 
 <h3>Aman Joshi</h3>
@@ -25,14 +26,14 @@ tools that work offline, say what they do, and carry no dark patterns.
 </p>
 
 <p>
-<b>Now shipping</b> APIGuard &nbsp;Â·&nbsp; <b>Now learning</b> LLM pipelines, NLP, graph algorithms, OS internals &nbsp;Â·&nbsp; <b>Open to</b> collaborations
+<b>Now shipping</b> APIGuard &nbsp;·&nbsp; <b>Now learning</b> LLM pipelines, NLP, graph algorithms, OS internals &nbsp;·&nbsp; <b>Open to</b> collaborations
 </p>
 
 <br />
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-releases.svg" />
-  <img src="./assets/h-releases-v2.gif" alt="Releases" width="100%" />
+  <img src="./assets/h-releases-smooth.gif" alt="Releases" width="100%" />
 </picture>
 
 <p><b>Selected work</b><br />Four projects across API security, applied AI, personal finance and systems programming.</p>
@@ -40,13 +41,13 @@ tools that work offline, say what they do, and carry no dark patterns.
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/APIGuard"><img src="./assets/p-apiguard.svg" alt="APIGuard â€” API security" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/APIGuard"><img src="./assets/p-apiguard.svg" alt="APIGuard — API security" width="100%" /></a>
 <p>Graph-guided API security scanner that tests access across user identities.<br /><b>CLI + GitHub Action</b>, multi-category checks and SARIF reports.</p>
 <a href="https://soul-ninja.github.io/APIGuard/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch APIGuard" /></a>
 <a href="https://github.com/Soul-Ninja/APIGuard"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="APIGuard source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/Debunkit"><img src="./assets/p-debunkit.svg" alt="Debunkit â€” fact checking" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/Debunkit"><img src="./assets/p-debunkit.svg" alt="Debunkit — fact checking" width="100%" /></a>
 <p>AI-assisted claim checking with live web evidence and explained verdicts.<br /><b>Cohere + local ML/NLP fallback</b>, with searchable analysis history.</p>
 <a href="https://debunk-it.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Debunkit" /></a>
 <a href="https://github.com/Soul-Ninja/Debunkit"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Debunkit source" /></a>
@@ -54,13 +55,13 @@ tools that work offline, say what they do, and carry no dark patterns.
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/Ledgio"><img src="./assets/p-ledgio.svg" alt="Ledgio â€” private finance" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/Ledgio"><img src="./assets/p-ledgio.svg" alt="Ledgio — private finance" width="100%" /></a>
 <p>Private, offline-first personal finance ledger and installable PWA.<br />Budgeting, loan tracker, biometric vault, cloud sync.</p>
 <a href="https://ledgio.pages.dev/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Ledgio" /></a>
 <a href="https://github.com/Soul-Ninja/Ledgio"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Ledgio source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash.svg" alt="MASH â€” educational Unix shell" width="100%" /></a>
+<a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash.svg" alt="MASH — educational Unix shell" width="100%" /></a>
 <p>An educational Unix shell and process laboratory in Python.<br />Pipelines, job control and a Linux <code>/proc</code> process dashboard.</p>
 <a href="https://github.com/Soul-Ninja/mash-os-project"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="mash source" /></a>
 </td>
@@ -95,7 +96,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-toolbox.svg" />
-  <img src="./assets/h-toolbox-v2.gif" alt="Toolbox" width="100%" />
+  <img src="./assets/h-toolbox-smooth.gif" alt="Toolbox" width="100%" />
 </picture>
 
 <p>
@@ -120,7 +121,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-stats.svg" />
-  <img src="./assets/h-stats-v2.gif" alt="Stats" width="100%" />
+  <img src="./assets/h-stats-smooth.gif" alt="Stats" width="100%" />
 </picture>
 
 <p>
@@ -132,7 +133,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-contact.svg" />
-  <img src="./assets/h-contact-v2.gif" alt="Contact" width="100%" />
+  <img src="./assets/h-contact-smooth.gif" alt="Contact" width="100%" />
 </picture>
 
 <p>
@@ -147,7 +148,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/footer.svg" />
-  <img src="./assets/footer.gif" alt="To be continued" width="100%" />
+  <img src="./assets/footer-smooth.gif" alt="To be continued" width="100%" />
 </picture>
 
 </div>
