@@ -72,10 +72,6 @@ tools that work offline, say what they do, and carry no dark patterns.
 <table>
 <tr><th align="left">Project</th><th align="left">What it is</th></tr>
 <tr>
-<td><a href="https://github.com/Soul-Ninja/fdr-shield"><b>FDR Shield</b></a></td>
-<td>SIH 2026 team project for FDR document verification, maturity monitoring and renewal alerts.</td>
-</tr>
-<tr>
 <td><a href="https://github.com/Soul-Ninja/nextwatch"><b>Nextwatch</b></a></td>
 <td>Anime discovery and release tracking with TMDB integration. Functional prototype; no public deployment yet.</td>
 </tr>
@@ -84,12 +80,12 @@ tools that work offline, say what they do, and carry no dark patterns.
 <td>My portfolio and classified threat console. <a href="https://soul-ninja.github.io/">Visit the site</a>.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Soul-Ninja/apiguard-action-test"><b>APIGuard Action test</b></a></td>
-<td>Deliberately vulnerable notes API for testing APIGuard's GitHub Action end to end. Test fixture only.</td>
-</tr>
-<tr>
 <td><a href="https://github.com/Soul-Ninja/nexus-zkvm"><b>nexus-zkvm</b></a></td>
 <td>Source repository with apps, contracts and scripts. Project README pending.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Soul-Ninja/fdr-shield"><b>FDR Shield</b></a></td>
+<td>SIH 2026 team project for FDR document verification, maturity monitoring and renewal alerts.</td>
 </tr>
 </table>
 
