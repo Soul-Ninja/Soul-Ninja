@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180" role="img" aria-label="MASH — Python Unix shell and pipelines">
+<title>MASH — Python Unix shell and pipelines</title>
+<rect width="600" height="180" fill="#0c0e13"/>
+<path d="M4.7 45 L4.7 0 L23.4 24 L42.2 0 L42.2 45 M55.7 45 L55.7 7.5 L63.2 0 L85.7 0 L85.7 45 M55.7 27 L85.7 27 M129.2 0 L106.7 0 L99.2 7.5 L99.2 22.5 L129.2 22.5 L129.2 37.5 L121.7 45 L99.2 45 M142.7 0 L142.7 45 M172.7 0 L172.7 45 M142.7 22.5 L172.7 22.5" transform="translate(34 42) skewX(-10)" fill="none" stroke="#0c0e13" stroke-width="16.1" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" /><path d="M4.7 45 L4.7 0 L23.4 24 L42.2 0 L42.2 45 M55.7 45 L55.7 7.5 L63.2 0 L85.7 0 L85.7 45 M55.7 27 L85.7 27 M129.2 0 L106.7 0 L99.2 7.5 L99.2 22.5 L129.2 22.5 L129.2 37.5 L121.7 45 L99.2 45 M142.7 0 L142.7 45 M172.7 0 L172.7 45 M142.7 22.5 L172.7 22.5" transform="translate(34 42) skewX(-10)" fill="none" stroke="#e8e3da" stroke-width="9.4" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" />
+<rect x="26" y="116" width="144.7" height="27" fill="#e8e3da" />
+<g transform="translate(38.4 122) skewX(-10) scale(.52)" fill="none" stroke="#0c0e13" stroke-width="5" stroke-linejoin="miter" stroke-linecap="square"><path d="M0 0V25L5 30H20V0" transform="translate(0 0)"/><path d="M0 30V0L20 30V0" transform="translate(26 0)"/><path d="M0 0V30" transform="translate(52 0)"/><path d="M0 0L20 30M20 0L0 30" transform="translate(64 0)"/><path d="M20 0H5L0 5V15H20V25L15 30H0" transform="translate(106 0)"/><path d="M0 0V30M20 0V30M0 15H20" transform="translate(132 0)"/><path d="M20 0H0V30H20M0 15H16" transform="translate(158 0)"/><path d="M0 0V30H20" transform="translate(184 0)"/><path d="M0 0V30H20" transform="translate(210 0)"/></g>
+<g fill="none" stroke="#e8e3da" stroke-width="3"><rect x="378" y="30" width="200" height="124"/><path d="M378 54H578"/></g>
+<g fill="#d4474e"><rect x="389" y="40" width="7" height="5"/><rect x="401" y="40" width="7" height="5"/></g>
+<g font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#e8e3da"><text x="390" y="78">$ printf hi | wc -c</text><text x="390" y="99">2</text><text x="390" y="140">$</text></g>
+<path d="M411 140H423" stroke="#d4474e" stroke-width="3"/>
+<g fill="none" stroke-width="2"><path d="M438 114H470M505 114H537" stroke="#d4474e"/><path d="M463 108L470 114L463 120M530 108L537 114L530 120" stroke="#d4474e"/><rect x="414" y="105" width="24" height="18" stroke="#e8e3da"/><rect x="470" y="105" width="35" height="18" stroke="#e8e3da"/><rect x="537" y="105" width="24" height="18" stroke="#e8e3da"/></g>
+<rect x="2.5" y="2.5" width="595" height="175" fill="none" stroke="#e8e3da" stroke-width="5"/>
+</svg>

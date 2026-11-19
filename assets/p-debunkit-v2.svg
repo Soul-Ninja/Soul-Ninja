@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180" role="img" aria-label="Debunkit — claims checked against evidence">
+<title>Debunkit — claims checked against evidence</title>
+<rect width="600" height="180" fill="#0c0e13"/>
+<path d="M4.7 0 L27.2 0 L34.7 7.5 L34.7 37.5 L27.2 45 L4.7 45Z M78.2 0 L48.2 0 L48.2 45 L78.2 45 M48.2 22.5 L72.2 22.5 M91.7 0 L114.2 0 L121.7 7.5 L121.7 15 L114.2 22.5 L121.7 30 L121.7 37.5 L114.2 45 L91.7 45Z M91.7 22.5 L114.2 22.5 M135.2 0 L135.2 45 L157.7 45 L165.2 37.5 L165.2 0 M178.7 45 L178.7 0 L208.7 45 L208.7 0 M222.2 0 L222.2 45 M252.2 0 L227.4 22.5 L252.2 45 M265.7 0 L265.7 45 M279.2 0 L309.2 0 M294.2 0 L294.2 45" transform="translate(34 42) skewX(-10)" fill="none" stroke="#0c0e13" stroke-width="16.1" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" /><path d="M4.7 0 L27.2 0 L34.7 7.5 L34.7 37.5 L27.2 45 L4.7 45Z M78.2 0 L48.2 0 L48.2 45 L78.2 45 M48.2 22.5 L72.2 22.5 M91.7 0 L114.2 0 L121.7 7.5 L121.7 15 L114.2 22.5 L121.7 30 L121.7 37.5 L114.2 45 L91.7 45Z M91.7 22.5 L114.2 22.5 M135.2 0 L135.2 45 L157.7 45 L165.2 37.5 L165.2 0 M178.7 45 L178.7 0 L208.7 45 L208.7 0 M222.2 0 L222.2 45 M252.2 0 L227.4 22.5 L252.2 45 M265.7 0 L265.7 45 M279.2 0 L309.2 0 M294.2 0 L294.2 45" transform="translate(34 42) skewX(-10)" fill="none" stroke="#e8e3da" stroke-width="9.4" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" />
+<rect x="26" y="116" width="191.6" height="27" fill="#e8e3da" />
+<path d="M11.7 0 L1.3 0 L1.3 15.6 M1.3 7.8 L9.6 7.8 M15.7 15.6 L15.7 2.6 L18.3 0 L26.1 0 L26.1 15.6 M15.7 9.4 L26.1 9.4 M40.6 0 L32.8 0 L30.2 2.6 L30.2 15.6 L40.6 15.6 M44.6 0 L55 0 M49.8 0 L49.8 15.6 M75.7 0 L67.9 0 L65.3 2.6 L65.3 15.6 L75.7 15.6 M79.7 0 L79.7 15.6 M90.1 0 L90.1 15.6 M79.7 7.8 L90.1 7.8 M104.5 0 L94.1 0 L94.1 15.6 L104.5 15.6 M94.1 7.8 L102.4 7.8 M118.9 0 L111.1 0 L108.5 2.6 L108.5 15.6 L118.9 15.6 M123 0 L123 15.6 M133.4 0 L124.8 7.8 L133.4 15.6 M137.4 0 L137.4 15.6 M141.4 15.6 L141.4 0 L151.8 15.6 L151.8 0 M166.3 0 L158.5 0 L155.9 2.6 L155.9 15.6 L166.3 15.6 L166.3 8.6 L161.6 8.6" transform="translate(38.4 122) skewX(-10)" fill="none" stroke="#0c0e13" stroke-width="2.6" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" />
+<g fill="none" stroke="#e8e3da" stroke-width="3" stroke-linejoin="miter">
+  <path d="M384 28H456L478 50V150H384Z"/>
+  <path d="M456 28V50H478M398 48H438M398 65H460M398 102H433M398 117H443M398 132H421"/>
+</g>
+<path d="M396 82H462" stroke="#d4474e" stroke-width="8"/>
+<circle cx="479" cy="97" r="29" fill="#0c0e13" stroke="#d4474e" stroke-width="5"/>
+<path d="M500 119L532 151" stroke="#d4474e" stroke-width="12"/>
+<path d="M466 97L475 106L492 87" fill="none" stroke="#e8e3da" stroke-width="4"/>
+<g fill="none" stroke="#e8e3da" stroke-width="3"><path d="M523 41H572V82H537L523 94Z"/><path d="M534 53H560M534 64H552"/></g>
+<rect x="2.5" y="2.5" width="595" height="175" fill="none" stroke="#e8e3da" stroke-width="5"/>
+</svg>

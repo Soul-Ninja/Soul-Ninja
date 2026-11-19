@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180" role="img" aria-label="Ledgio — private, offline budgeting">
+<title>Ledgio — private, offline budgeting</title>
+<rect width="600" height="180" fill="#0c0e13"/>
+<path d="M4.7 0 L4.7 45 L34.7 45 M78.2 0 L48.2 0 L48.2 45 L78.2 45 M48.2 22.5 L72.2 22.5 M91.7 0 L114.2 0 L121.7 7.5 L121.7 37.5 L114.2 45 L91.7 45Z M165.2 0 L142.7 0 L135.2 7.5 L135.2 45 L165.2 45 L165.2 24.8 L151.7 24.8 M178.7 0 L178.7 45 M199.7 0 L222.2 0 L222.2 37.5 L214.7 45 L192.2 45 L192.2 7.5Z" transform="translate(34 42) skewX(-10)" fill="none" stroke="#0c0e13" stroke-width="16.1" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" /><path d="M4.7 0 L4.7 45 L34.7 45 M78.2 0 L48.2 0 L48.2 45 L78.2 45 M48.2 22.5 L72.2 22.5 M91.7 0 L114.2 0 L121.7 7.5 L121.7 37.5 L114.2 45 L91.7 45Z M165.2 0 L142.7 0 L135.2 7.5 L135.2 45 L165.2 45 L165.2 24.8 L151.7 24.8 M178.7 0 L178.7 45 M199.7 0 L222.2 0 L222.2 37.5 L214.7 45 L192.2 45 L192.2 7.5Z" transform="translate(34 42) skewX(-10)" fill="none" stroke="#e8e3da" stroke-width="9.4" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" />
+<rect x="26" y="116" width="210" height="27" fill="#e8e3da" />
+<path d="M1.3 15.6 L1.3 0 L11.7 0 L11.7 8.8 L1.3 8.8 M15.7 15.6 L15.7 0 L26.1 0 L26.1 8.3 L15.7 8.3 M19.9 8.3 L26.1 15.6 M30.2 0 L30.2 15.6 M34.2 0 L39.4 15.6 L44.6 0 M48.6 15.6 L48.6 2.6 L51.2 0 L59 0 L59 15.6 M48.6 9.4 L59 9.4 M63.1 0 L73.5 0 M68.2 0 L68.2 15.6 M87.9 0 L77.5 0 L77.5 15.6 L87.9 15.6 M77.5 7.8 L85.8 7.8 M108.5 0 L98.2 0 L98.2 15.6 M98.2 7.8 L106.5 7.8 M112.6 0 L112.6 15.6 M116.6 15.6 L116.6 0 L127 15.6 L127 0 M131 15.6 L131 2.6 L133.6 0 L141.4 0 L141.4 15.6 M131 9.4 L141.4 9.4 M145.5 15.6 L145.5 0 L155.9 15.6 L155.9 0 M170.3 0 L162.5 0 L159.9 2.6 L159.9 15.6 L170.3 15.6 M184.7 0 L174.3 0 L174.3 15.6 L184.7 15.6 M174.3 7.8 L182.6 7.8" transform="translate(38.4 122) skewX(-10)" fill="none" stroke="#0c0e13" stroke-width="2.6" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="square" />
+<g fill="none" stroke="#e8e3da" stroke-width="3" stroke-linejoin="miter">
+  <path d="M384 29H568V151H384Z"/>
+  <path d="M384 59H568M505 59V133M397 73H435M397 94H454M397 115H440"/>
+</g>
+<g fill="#e8e3da" font-family="ui-monospace,Consolas,monospace" font-size="14"><text x="397" y="49">LEDGER</text><text x="521" y="49">+ / -</text></g>
+<path d="M520 75H550" stroke="#e8e3da" stroke-width="5"/>
+<path d="M520 96H543M520 117H536" stroke="#d4474e" stroke-width="5"/>
+<path d="M397 137H480" stroke="#d4474e" stroke-width="7"/>
+<rect x="529" y="127" width="42" height="31" fill="#d4474e" stroke="#0c0e13" stroke-width="4"/>
+<path d="M540 127V119A10 10 0 0 1 560 119V127" fill="none" stroke="#e8e3da" stroke-width="3"/>
+<path d="M550 138V147" stroke="#e8e3da" stroke-width="3"/>
+<rect x="2.5" y="2.5" width="595" height="175" fill="none" stroke="#e8e3da" stroke-width="5"/>
+</svg>
