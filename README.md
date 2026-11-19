@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-profile.svg" />
-  <img src="./assets/h-profile-smooth.gif" alt="Profile" width="100%" />
+  <img src="./assets/h-profile-optical.gif" alt="Profile" width="100%" />
 </picture>
 
 <h3>Aman Joshi</h3>
@@ -33,7 +33,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-releases.svg" />
-  <img src="./assets/h-releases-smooth.gif" alt="Releases" width="100%" />
+  <img src="./assets/h-releases-optical.gif" alt="Releases" width="100%" />
 </picture>
 
 <p><b>Selected work</b><br />Four projects across API security, applied AI, personal finance and systems programming.</p>
@@ -96,7 +96,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-toolbox.svg" />
-  <img src="./assets/h-toolbox-smooth.gif" alt="Toolbox" width="100%" />
+  <img src="./assets/h-toolbox-optical.gif" alt="Toolbox" width="100%" />
 </picture>
 
 <p>
@@ -121,7 +121,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-stats.svg" />
-  <img src="./assets/h-stats-smooth.gif" alt="Stats" width="100%" />
+  <img src="./assets/h-stats-optical.gif" alt="Stats" width="100%" />
 </picture>
 
 <p>
@@ -133,7 +133,7 @@ tools that work offline, say what they do, and carry no dark patterns.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/h-contact.svg" />
-  <img src="./assets/h-contact-smooth.gif" alt="Contact" width="100%" />
+  <img src="./assets/h-contact-optical.gif" alt="Contact" width="100%" />
 </picture>
 
 <p>
