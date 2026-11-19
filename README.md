@@ -42,13 +42,13 @@ tools that work offline, say what they do, and carry no dark patterns.
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Soul-Ninja/APIGuard"><img src="./assets/p-apiguard-v2.svg" alt="APIGuard — API security" width="100%" /></a>
-<p>API access checks.<br />CLI + CI scans.</p>
+<p>API auth tests.<br />CLI + CI scans.</p>
 <a href="https://soul-ninja.github.io/APIGuard/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch APIGuard" /></a>
 <a href="https://github.com/Soul-Ninja/APIGuard"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="APIGuard source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Soul-Ninja/Debunkit"><img src="./assets/p-debunkit-v2.svg" alt="Debunkit — fact checking" width="100%" /></a>
-<p>AI claim checking.<br />Web evidence.</p>
+<p>AI fact checks.<br />Web evidence.</p>
 <a href="https://debunk-it.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Debunkit" /></a>
 <a href="https://github.com/Soul-Ninja/Debunkit"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Debunkit source" /></a>
 </td>
@@ -56,13 +56,13 @@ tools that work offline, say what they do, and carry no dark patterns.
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Soul-Ninja/Ledgio"><img src="./assets/p-ledgio-v2.svg" alt="Ledgio — private finance" width="100%" /></a>
-<p>Offline budgeting.<br />Private ledger.</p>
+<p>Offline budgets.<br />Private ledger.</p>
 <a href="https://ledgio.pages.dev/"><img src="https://img.shields.io/badge/LAUNCH-d4474e?style=for-the-badge" alt="Launch Ledgio" /></a>
 <a href="https://github.com/Soul-Ninja/Ledgio"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="Ledgio source" /></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Soul-Ninja/mash-os-project"><img src="./assets/p-mash-v2.svg" alt="MASH — educational Unix shell" width="100%" /></a>
-<p>Python Unix shell.<br />Pipelines + jobs.</p>
+<p>Python shell.<br />Pipes + jobs.</p>
 <a href="https://github.com/Soul-Ninja/mash-os-project"><img src="https://img.shields.io/badge/SOURCE-e8e3da?style=for-the-badge&logo=github&logoColor=0c0e13" alt="mash source" /></a>
 </td>
 </tr>
